@@ -10,6 +10,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # Description
 
+- Send SMS to single recipient.
 - Send SMS to multiple recipients.
 - Send default typed SMS.
 - SMS can be modified.
